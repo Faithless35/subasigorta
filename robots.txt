@@ -1,0 +1,19 @@
+# robots.txt for Suba Sigorta
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://subasigorta.com/sitemap.xml
+
+# Disallow admin and private directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+Disallow: /.kiro/
+
+# Allow all assets
+Allow: /assets/
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 1
