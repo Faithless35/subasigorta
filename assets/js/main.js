@@ -276,4 +276,14 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 300);
         }, 5000);
     }
+    
+    // ===== DYNAMIC YEAR IN FOOTER =====
+    
+    // Update copyright year dynamically
+    const copyrightYearElements = document.querySelectorAll('.copyright-year');
+    const currentYear = new Date().getFullYear();
+    
+    copyrightYearElements.forEach(element => {
+        element.textContent = currentYear;
+    });
 });

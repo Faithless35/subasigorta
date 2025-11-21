@@ -42,4 +42,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://subasigorta.com/sorumluluk.html</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://subasigorta.com/tekne-yat.html</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://subasigorta.com/tarsim.html</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://subasigorta.com/yangin.html</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://subasigorta.com/isyeri-kobi.html</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://subasigorta.com/emtea-nakliyat.html</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
